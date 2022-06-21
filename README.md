@@ -1,2 +1,2 @@
-# codesandbox-react-to-do-02
+# codesandbox-react-to-do
 Created with CodeSandbox
